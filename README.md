@@ -1,6 +1,6 @@
 # MouseLight Microscope Hardware
 
-Hardware plans, component and assembly guide for the MouseLight microscope system described in [Economo et al., eLife, 2015] (https://elifesciences.org/articles/10566)
+Hardware plans, component and assembly guide for the MouseLight microscope system described in [Economo et al., eLife, 2015](https://elifesciences.org/articles/10566)
 
 ## Contents
 Please read the MouseLight_Microscope_AssemblyGuidelines file for a rundown of the construction process and the provided files and documentation.
