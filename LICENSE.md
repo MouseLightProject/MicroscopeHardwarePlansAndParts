@@ -1,4 +1,4 @@
-#Janelia Open-Source Hardware
+# Janelia Open-Source Hardware
 By downloading, using and/or viewing these designs, documentation and related data and information, and all content in the foregoing (collectively, the “Designs”), you agree to the following:
 
 You may use, copy, modify, display and distribute the Designs for any non-commercial research or educational purpose.
